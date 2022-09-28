@@ -1,4 +1,4 @@
-<center><img src="assets/logo.png" height="360"/></center>
+<center><img src="/assets/logo.png" height="360"/></center>
 
 ## Usefull urls
 * [**Moodle course**](https://moodle-thu.de/course/view.php?id=1341)
